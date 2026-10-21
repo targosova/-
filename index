@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="background-color:Red; font-family:verdana; color:White;" >Coca Cola</h1>
+
+<p style="background-image: url('backr.gif');">
+
+<img src="source.gif">
+<img src="fail.gif">
+<img src="kicia.gif">
+
+
+</body>
+</html>
